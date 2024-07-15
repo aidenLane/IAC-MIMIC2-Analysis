@@ -23,6 +23,10 @@ Using scikit-learn, employed binary logistic regression on the main response var
 The model seemed to be highly accurate on the test data which does not necessarily imply correctness. Since all data came from one dataset, there may be overfitting which would need further data for validation. Also, only 1064 total patients were included in this section of analysis.
 
 #### Data Visualization
+![image](https://github.com/user-attachments/assets/5c2aa9c5-0d64-49c2-b8f3-cddd2d85437e)
+
+![image](https://github.com/user-attachments/assets/38a1428c-8e5e-42ee-a76d-e9556716b928)
+
 Now, attempted to show important data in a more digestible format visually. However, noticed that the lack of dates or a timeline in data made it hard to properly show how mortality was over time.
 
 ### Conclusion
